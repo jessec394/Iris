@@ -1,0 +1,5 @@
+[
+    {"Operator": "Amtrak", "Type": "Intercity Rail", "Name": "Steamboat", "Waypoints": [[39.7529, -105.0012], [39.9475, -105.8177], [40.5106, -107.5528]]},
+    {"Operator": "RTD", "Type": "Heavy Rail", "Name": "A Line", "Waypoints": [[39.7529, -105.0012], [39.8474, -104.6739]]},
+    {"Operator": "RTD", "Type": "Heavy Rail", "Name": "N Line", "Waypoints": [[39.7529, -105.0012], [39.7675, -104.9907], [39.9233, -104.9623]]}
+]
